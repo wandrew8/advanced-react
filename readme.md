@@ -9,7 +9,7 @@ This application was completed through through the Wes Bos advanced React and Gr
 
 - React.js - for building the user interface
 - Next.js - for server-side rendering, routing and tooling
-- Styled Components - for styling
+- Styled Components - for custom styling of components
 - React-Apollo - for interfacing with Apollo Client
 - Jest and Enzyme - for testing
 - Apollo Client - for data and state management
